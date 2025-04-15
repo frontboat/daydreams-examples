@@ -1,0 +1,20 @@
+{
+  "name": "examples030",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@ai-sdk/anthropic": "^1.2.10",
+    "@ai-sdk/google": "^1.2.11",
+    "@ai-sdk/openai": "^1.3.12",
+    "@daydreamsai/cli": "^0.3.0",
+    "@daydreamsai/core": "^0.3.0",
+    "ai": "^4.3.6",
+    "zod": "^3.24.2"
+  }
+}
